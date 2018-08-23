@@ -1,0 +1,173 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "InvasaoZumbi-020.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_002": {
+      "__uuid__": "06f415fb-a238-4ad6-bb5d-a6cb48da88c5"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_003": {
+      "__uuid__": "575ea6ba-0571-4693-ae3c-eec915bbac9d"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_004": {
+      "__uuid__": "efe039bf-e153-4377-b3a6-5cf2a7676502"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_005": {
+      "__uuid__": "f7612364-89c3-4100-880d-30e5b681796c"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_006": {
+      "__uuid__": "8a6101a5-2ec0-4948-b7c8-7d51d13a42f1"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_007": {
+      "__uuid__": "21e41cef-8151-43e8-9f0c-92f5e3823fd1"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_008": {
+      "__uuid__": "cb6ea926-f1e0-457c-b178-9b2d002af832"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_009": {
+      "__uuid__": "43293796-2af6-48ed-8fe5-9ce7b4f7cf6f"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_010": {
+      "__uuid__": "56310bd9-069a-420e-abc1-bf7017297e9e"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_011": {
+      "__uuid__": "9a0a402b-0203-45ec-b65e-ddc6fa72826c"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_012": {
+      "__uuid__": "3c42808c-dd05-432e-8dc5-6578da31f37b"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_013": {
+      "__uuid__": "7aadffd0-da91-4894-8cdb-878e45990781"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_014": {
+      "__uuid__": "b150e852-c1ec-4179-a7b2-8448e0588417"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_015": {
+      "__uuid__": "f65b385b-f1e3-40d2-82d4-572202246b18"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_016": {
+      "__uuid__": "66e02668-0294-4af0-90d7-2ec83f972a43"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_017": {
+      "__uuid__": "8e7d2782-16b6-49ba-85f0-421b9a184a57"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_018": {
+      "__uuid__": "12c65970-4789-4ac7-b4ac-f4dfd98fe305"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_019": {
+      "__uuid__": "b67dae73-7251-4806-9cdc-a00eaa697f9b"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_020": {
+      "__uuid__": "433e46e1-9493-46e4-bab0-99cfa6fa1f83"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_021": {
+      "__uuid__": "ac83be78-7a4d-4a32-b3a8-377a68fa9692"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_022": {
+      "__uuid__": "3379b508-e976-49e3-8e8a-96f4b0ef23a5"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_023": {
+      "__uuid__": "31f57089-becb-434c-9d2b-3d7a9cb3f073"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_024": {
+      "__uuid__": "ca1c4ecc-e3d5-488c-97d5-42c12a7649f1"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_025": {
+      "__uuid__": "ad93a1de-c69d-4165-a6f4-f86029915008"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_026": {
+      "__uuid__": "a018ef22-e0c2-43f5-8da1-ab276116d090"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_027": {
+      "__uuid__": "6377191a-37c8-48a9-b8eb-da503084a65e"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_028": {
+      "__uuid__": "9d7db38f-a86d-4785-9c20-e625b78e728a"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_029": {
+      "__uuid__": "cfaebe29-b55c-4f13-870c-4b1bb5310d7b"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_030": {
+      "__uuid__": "9168a2f9-86a9-43b2-bdf8-19a276ee4841"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_031": {
+      "__uuid__": "19de7487-20a2-49ac-a265-a22b0739f8d0"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_032": {
+      "__uuid__": "170bfbff-6e07-482b-a546-8b4b45ed2197"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_033": {
+      "__uuid__": "93a88211-2b46-44d5-b9bb-0d66322547f7"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_034": {
+      "__uuid__": "c4e7dfb1-065c-442c-ba77-4ebf272d722e"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_035": {
+      "__uuid__": "6ea00137-6823-4a42-8c03-23848aef4c76"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_036": {
+      "__uuid__": "c107f75f-fbdc-447b-a430-ee21bbfd9cf6"
+    },
+    "Veiculos_CarroCapotado01Direita": {
+      "__uuid__": "e25d5841-9c37-4869-8ea1-0f293d6a7837"
+    },
+    "Veiculos_CarroCapotado01Esquerda": {
+      "__uuid__": "a591e766-3dfe-4e5a-a2fc-ad9aed894cb0"
+    },
+    "Veiculos_CarroCapotado01Frente": {
+      "__uuid__": "729f4aaa-b863-4664-87c7-44fdfdd4b01b"
+    },
+    "Veiculos_CarroCapotado01Tras": {
+      "__uuid__": "d0a9925e-34bb-464e-8daa-1f7342dd5e3d"
+    },
+    "Veiculos_CarroCapotado03Direita": {
+      "__uuid__": "0d20bf38-afd3-4893-921f-cee3302bf928"
+    },
+    "Veiculos_CarroCapotado03Esquerda": {
+      "__uuid__": "b713c810-910d-456c-8935-29a1819eb417"
+    },
+    "Veiculos_CarroCapotado03Frente": {
+      "__uuid__": "f6dbfc09-1960-49fa-b059-993d51586f26"
+    },
+    "Veiculos_CarroCapotado03Tras": {
+      "__uuid__": "ed4c3a9f-7e33-4d63-8834-42a7bbfaa347"
+    },
+    "Veiculos_CarroPolicialDireita": {
+      "__uuid__": "dbbbb3fd-ea37-4c43-b503-059ece8d0bed"
+    },
+    "Veiculos_CarroPolicialEsquerda": {
+      "__uuid__": "027e2245-afc3-41a7-aaf6-393dc20bb8b5"
+    },
+    "Veiculos_CarroPolicialFrente": {
+      "__uuid__": "aac0ece1-6dfc-47ca-94b0-dcf4cdc01dec"
+    },
+    "Veiculos_CarroPolicialTras": {
+      "__uuid__": "ca386a12-e70f-4976-a896-89af391cb1a5"
+    },
+    "Veiculos_TanqueDeGuerraDestruidoDireita": {
+      "__uuid__": "9f6e8942-f3b8-4c5d-93c9-9df340bb51e0"
+    },
+    "Veiculos_TanqueDeGuerraDestruidoEsquerda": {
+      "__uuid__": "6588b88d-7a0d-4cd3-b771-679549e63b2a"
+    },
+    "Veiculos_TanqueDeGuerraDestruidoFrente": {
+      "__uuid__": "b2152f3e-ce68-47e9-966b-6b31205741c2"
+    },
+    "Veiculos_TanqueDeGuerraDestruidoTras": {
+      "__uuid__": "68b76740-f447-47ec-a8f7-568feeaf9895"
+    },
+    "Veiculos_VanBatidaDireita": {
+      "__uuid__": "06ae7d13-19c8-4ce9-ba51-93c1dc74e8c2"
+    },
+    "Veiculos_VanBatidaEsquerda": {
+      "__uuid__": "8a53c7a0-376f-4f2d-bf67-3d1c8fcb0e3b"
+    },
+    "Veiculos_VanBatidaFrente": {
+      "__uuid__": "b16bb9df-8ff1-4288-87f6-dd39609f95cd"
+    },
+    "Veiculos_VanBatidaTras": {
+      "__uuid__": "ae2efbf4-5ab6-488b-9e5c-1f8f2cc2d396"
+    }
+  }
+}

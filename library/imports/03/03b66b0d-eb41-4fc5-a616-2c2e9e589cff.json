@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ataque-DireitaCima-Zumbi_AtaqueDireitaCima_021",
+    "texture": "1165a016-473e-45f0-9777-146b0af2a936",
+    "atlas": "931b1ffd-6577-4298-b076-549086debee6",
+    "rect": [
+      1,
+      1415,
+      106,
+      121
+    ],
+    "offset": [
+      6,
+      11
+    ],
+    "originalSize": [
+      300,
+      169
+    ]
+  }
+}

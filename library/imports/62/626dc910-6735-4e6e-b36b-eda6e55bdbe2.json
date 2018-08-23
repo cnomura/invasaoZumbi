@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Andar-Baixo-Jogadora_AndarBaixo_010",
+    "texture": "32bfcf0c-b71a-4e68-b56e-fb7ba088492e",
+    "atlas": "7b698b17-3533-448b-9720-809a71c244b4",
+    "rect": [
+      1699,
+      1,
+      70,
+      114
+    ],
+    "offset": [
+      1,
+      5
+    ],
+    "originalSize": [
+      288,
+      162
+    ]
+  }
+}

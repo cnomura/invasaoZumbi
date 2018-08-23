@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "InvasaoZumbi-012.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Dinner-Dinner_Esquerda": {
+      "__uuid__": "1248bfc5-761b-4511-8369-ccb8d4293634"
+    },
+    "Dinner-Dinner_Frente": {
+      "__uuid__": "41c996fd-9a44-4874-96e2-641ceb95d24d"
+    },
+    "Dinner-Dinner_Tras": {
+      "__uuid__": "6a33e713-bfd1-4f76-ae27-02c8d7bb6d92"
+    },
+    "Itens_KitPrimeirosSocorrosBaixo": {
+      "__uuid__": "0d402b41-4dd5-4dec-84fb-62a71020eba7"
+    },
+    "Itens_KitPrimeirosSocorrosBaixoDireita": {
+      "__uuid__": "c28c003c-9169-4ef4-b90f-f9f29128dca1"
+    },
+    "Itens_KitPrimeirosSocorrosBaixoEsquerda": {
+      "__uuid__": "93629662-c439-4f48-80b9-cb58d40de5ac"
+    },
+    "Itens_KitPrimeirosSocorrosCima": {
+      "__uuid__": "bdd316b6-bc98-43f0-8f3e-57d28502ac48"
+    },
+    "Itens_KitPrimeirosSocorrosCimaDireita": {
+      "__uuid__": "dcfa21ef-0cec-4319-bea4-188c4b91b75b"
+    },
+    "Itens_KitPrimeirosSocorrosCimaEsquerda": {
+      "__uuid__": "219e2375-283d-41c5-af31-b1bc3591e090"
+    },
+    "Itens_KitPrimeirosSocorrosDireita": {
+      "__uuid__": "4abbc4be-8989-4aab-8f57-587526732cd4"
+    },
+    "Itens_KitPrimeirosSocorrosEsquerda": {
+      "__uuid__": "edd84ffd-c857-4764-9436-ee2336342e6a"
+    },
+    "Loja-Loja_Direita": {
+      "__uuid__": "046f09fc-4b03-439d-8406-9cb42003cb6a"
+    }
+  }
+}

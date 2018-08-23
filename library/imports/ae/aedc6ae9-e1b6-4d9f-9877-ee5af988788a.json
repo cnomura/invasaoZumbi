@@ -1,0 +1,257 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "InvasaoZumbi-014.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Mecanico-Mecanico_Esquerda": {
+      "__uuid__": "a814a261-935d-4cff-82d8-634085090ca7"
+    },
+    "Mecanico-Mecanico_Frente": {
+      "__uuid__": "2dd99e8f-a678-4453-9e9c-bf4d6e0337e5"
+    },
+    "Mecanico-Mecanico_Tras": {
+      "__uuid__": "c4adcdfe-fc92-4366-92a5-e078b750ed3e"
+    },
+    "Morte-Chefe_Morte_000": {
+      "__uuid__": "a6dfab62-50fa-4c38-b039-6f626431af45"
+    },
+    "Morte-Chefe_Morte_001": {
+      "__uuid__": "050ef72f-1058-4523-93cb-ff214fa0b64a"
+    },
+    "Morte-Chefe_Morte_002": {
+      "__uuid__": "b79e7e35-722b-41c0-9447-a38eaa7eee61"
+    },
+    "Morte-Chefe_Morte_003": {
+      "__uuid__": "f88b2986-d06c-4a37-a27e-16bf7e0a7de6"
+    },
+    "Morte-Chefe_Morte_004": {
+      "__uuid__": "d36ce2a1-61d0-438f-b0dd-e527dcdf326e"
+    },
+    "Morte-Chefe_Morte_005": {
+      "__uuid__": "d2679939-089c-4cf9-a007-bed9a6d4c50c"
+    },
+    "Morte-Chefe_Morte_006": {
+      "__uuid__": "fb03cbb1-c803-4390-b2de-a73ee1eb9696"
+    },
+    "Morte-Chefe_Morte_007": {
+      "__uuid__": "ab7d3195-28a3-4fe3-88d0-f24d6891f752"
+    },
+    "Morte-Chefe_Morte_008": {
+      "__uuid__": "c069250f-6a9b-4d56-89d5-b7a90a4c3545"
+    },
+    "Morte-Chefe_Morte_009": {
+      "__uuid__": "4a645881-a54d-4d2a-af92-c34d0129fce8"
+    },
+    "Morte-Chefe_Morte_010": {
+      "__uuid__": "44728644-05ba-4317-888b-fdfa3b648261"
+    },
+    "Morte-Chefe_Morte_011": {
+      "__uuid__": "dca4406e-9446-4ee4-a7de-cd9a8c760007"
+    },
+    "Morte-Chefe_Morte_012": {
+      "__uuid__": "3df7538f-4246-48c8-a2f3-a9e778071127"
+    },
+    "Morte-Chefe_Morte_013": {
+      "__uuid__": "8d9f59e2-cc7c-40d6-9612-83b615781415"
+    },
+    "Morte-Chefe_Morte_014": {
+      "__uuid__": "847a01f2-8ae1-4c21-8b9e-9f7290bac36e"
+    },
+    "Morte-Chefe_Morte_015": {
+      "__uuid__": "a4452998-4d34-4183-8744-7971e8347c0e"
+    },
+    "Morte-Chefe_Morte_016": {
+      "__uuid__": "5c865598-d8e3-4dea-91ba-c92bb83dac90"
+    },
+    "Morte-Chefe_Morte_017": {
+      "__uuid__": "1b6197f0-7935-47d6-aba4-d4fbb7c1ff66"
+    },
+    "Morte-Chefe_Morte_018": {
+      "__uuid__": "a9592847-88b9-4b23-b2fb-52e9f647d251"
+    },
+    "Morte-Chefe_Morte_019": {
+      "__uuid__": "462d8c83-cc6c-42b9-adab-05ad396b5faf"
+    },
+    "Morte-Chefe_Morte_020": {
+      "__uuid__": "dde128c5-e5c4-42f8-a02c-6f6966f79f43"
+    },
+    "Morte-Chefe_Morte_021": {
+      "__uuid__": "a5361e3a-4cf4-488a-8460-ce26804cc564"
+    },
+    "Morte-Chefe_Morte_022": {
+      "__uuid__": "a64f1819-2d08-4794-adc3-8b94567e85a9"
+    },
+    "Morte-Chefe_Morte_023": {
+      "__uuid__": "9d56f3ac-34cc-4188-8c54-d7ff176db4a6"
+    },
+    "Morte-Chefe_Morte_024": {
+      "__uuid__": "6f89a5be-dc69-4496-b054-b6f12c155481"
+    },
+    "Morte-Chefe_Morte_025": {
+      "__uuid__": "0afaea3b-381d-4778-8ba0-cd60d3b71143"
+    },
+    "Morte-Chefe_Morte_026": {
+      "__uuid__": "90e58f94-5ca6-4e78-8c36-885ed306c603"
+    },
+    "Morte-Chefe_Morte_027": {
+      "__uuid__": "7bb828ce-6898-4bf0-ba09-3b573e25efdf"
+    },
+    "Morte-Chefe_Morte_028": {
+      "__uuid__": "5695f14f-145b-4126-9a87-82a4fb4c10cf"
+    },
+    "Morte-Chefe_Morte_029": {
+      "__uuid__": "2cb6bb16-33e2-42dc-8255-360aac599741"
+    },
+    "Morte-Chefe_Morte_030": {
+      "__uuid__": "1139bd0f-9838-4328-93a7-b9c9b7974511"
+    },
+    "Morte-Chefe_Morte_031": {
+      "__uuid__": "1a8f9ece-02f4-4783-b123-03503563b266"
+    },
+    "Morte-Chefe_Morte_032": {
+      "__uuid__": "5bebb4f9-cf6f-4aa8-b0a4-57c5b6fcd51e"
+    },
+    "Morte-Chefe_Morte_033": {
+      "__uuid__": "3606c545-b227-4341-96ea-4d99055a814e"
+    },
+    "Morte-Chefe_Morte_034": {
+      "__uuid__": "8f262fba-d8ca-4be5-9f88-18f3738840c8"
+    },
+    "Morte-Chefe_Morte_035": {
+      "__uuid__": "d92881c3-738e-4ac8-96c2-fdbf77fb298c"
+    },
+    "Morte-Chefe_Morte_036": {
+      "__uuid__": "4faffa05-1dd3-4dff-b0c3-9f6f0e3a7708"
+    },
+    "Morte-Chefe_Morte_037": {
+      "__uuid__": "e5205c6a-a808-4686-a853-d68de96594b0"
+    },
+    "Morte-Chefe_Morte_038": {
+      "__uuid__": "9b16fd52-e567-44b5-ad89-c2e017d76306"
+    },
+    "Morte-Chefe_Morte_039": {
+      "__uuid__": "07805f54-5556-4d4c-b1eb-f06987a7458b"
+    },
+    "Morte-Zumbi_Morte_000": {
+      "__uuid__": "1d809f2a-12b5-4bb4-8174-0f3e403b9cbf"
+    },
+    "Morte-Zumbi_Morte_001": {
+      "__uuid__": "21e44cd3-d3fa-48e2-837f-2842aad99623"
+    },
+    "Morte-Zumbi_Morte_002": {
+      "__uuid__": "ca4e7f36-0d5a-45ef-afba-4ad5ca59a57c"
+    },
+    "Morte-Zumbi_Morte_003": {
+      "__uuid__": "8712175a-9cfe-4353-800d-cfa3095f8987"
+    },
+    "Morte-Zumbi_Morte_004": {
+      "__uuid__": "d19a30a6-7e75-410e-9540-0b3ab3231286"
+    },
+    "Morte-Zumbi_Morte_005": {
+      "__uuid__": "f52babde-d496-40a0-9b50-4d04175c54c2"
+    },
+    "Morte-Zumbi_Morte_006": {
+      "__uuid__": "995463bd-ddc3-40b5-9086-772efc422cff"
+    },
+    "Morte-Zumbi_Morte_007": {
+      "__uuid__": "93f35303-d911-4aaf-b999-ca33bc14e485"
+    },
+    "Morte-Zumbi_Morte_008": {
+      "__uuid__": "bc9f01b9-9dfb-41e1-a0b0-31736400d38e"
+    },
+    "Morte-Zumbi_Morte_009": {
+      "__uuid__": "62200d69-d3ea-4a4d-8a50-4b95ce4d0ed1"
+    },
+    "Morte-Zumbi_Morte_010": {
+      "__uuid__": "66e37053-c019-4f83-9191-2767a6efdeac"
+    },
+    "Morte-Zumbi_Morte_011": {
+      "__uuid__": "59f7d39f-e6a4-47ca-bc76-55878138b27a"
+    },
+    "Morte-Zumbi_Morte_012": {
+      "__uuid__": "84632a51-f514-49d8-b6bd-2f47aa249a10"
+    },
+    "Morte-Zumbi_Morte_013": {
+      "__uuid__": "fa7cbb84-f5fd-42f2-b95f-9fa1303cd44d"
+    },
+    "Morte-Zumbi_Morte_014": {
+      "__uuid__": "c6944028-a0bc-47da-b664-63dad285fe09"
+    },
+    "Morte-Zumbi_Morte_015": {
+      "__uuid__": "443c37ec-a897-4225-a669-5e7b902d94a4"
+    },
+    "Morte-Zumbi_Morte_016": {
+      "__uuid__": "c9ddb6a4-4204-486e-bbbb-7ddde26d1695"
+    },
+    "Morte-Zumbi_Morte_017": {
+      "__uuid__": "567657aa-1dd6-4bd0-917e-201a8b5ad86a"
+    },
+    "Morte-Zumbi_Morte_018": {
+      "__uuid__": "535bcc37-581f-4ede-a23e-a686e5a616a1"
+    },
+    "Morte-Zumbi_Morte_019": {
+      "__uuid__": "57bd8c14-22ee-42a1-8add-2cd25268bbf8"
+    },
+    "Morte-Zumbi_Morte_020": {
+      "__uuid__": "8904bfa8-8b0d-4c47-8f6b-7eaa7ef198b0"
+    },
+    "Morte-Zumbi_Morte_021": {
+      "__uuid__": "937a696c-46e1-44bb-94ba-66402caefd25"
+    },
+    "Morte-Zumbi_Morte_022": {
+      "__uuid__": "354329ef-ed0c-426f-81f7-f4675b878b7e"
+    },
+    "Morte-Zumbi_Morte_023": {
+      "__uuid__": "14d89a81-49a1-4144-9fb8-da314fb807e3"
+    },
+    "Morte-Zumbi_Morte_024": {
+      "__uuid__": "6a6c4655-8ec7-4898-8ffc-8d0503a92330"
+    },
+    "Morte-Zumbi_Morte_025": {
+      "__uuid__": "e6edbfc5-c2e3-4ad0-bb88-6b4b3d7eafaa"
+    },
+    "Morte-Zumbi_Morte_026": {
+      "__uuid__": "3ca292c6-c37b-468b-b42a-e16bd001ad06"
+    },
+    "Morte-Zumbi_Morte_027": {
+      "__uuid__": "4bf8e399-199c-452a-a52d-0ecd1c276592"
+    },
+    "Morte-Zumbi_Morte_028": {
+      "__uuid__": "2a8e2689-4991-4e1f-9bb5-6e6dd3e3f022"
+    },
+    "Morte-Zumbi_Morte_029": {
+      "__uuid__": "6f2d2b1b-273d-4e80-817d-f7eddae334ac"
+    },
+    "Morte-Zumbi_Morte_030": {
+      "__uuid__": "9447f992-0c6f-48bc-abaa-3f07caaba4a1"
+    },
+    "Morte-Zumbi_Morte_031": {
+      "__uuid__": "a6e7c167-77a8-4f38-94d3-e18661be2d40"
+    },
+    "Morte-Zumbi_Morte_032": {
+      "__uuid__": "3114cbd4-bff8-48f4-9de0-ad5ec0cfa723"
+    },
+    "Morte-Zumbi_Morte_033": {
+      "__uuid__": "17225c0b-9dc3-4e77-87e8-49ae2b984f69"
+    },
+    "Morte-Zumbi_Morte_034": {
+      "__uuid__": "d1bb1935-8cf9-410d-bb2e-d27f30bae042"
+    },
+    "Morte-Zumbi_Morte_035": {
+      "__uuid__": "163f008e-af74-47a9-9119-b4bbf791126e"
+    },
+    "Morte-Zumbi_Morte_036": {
+      "__uuid__": "aee9c3ab-43a0-4cb4-a768-729a2a4423f1"
+    },
+    "Morte-Zumbi_Morte_037": {
+      "__uuid__": "227e6a74-521c-42df-ae5b-70d2aeaa4d21"
+    },
+    "Morte-Zumbi_Morte_038": {
+      "__uuid__": "45463a21-1bfa-4572-8153-92013589c44b"
+    },
+    "Morte-Zumbi_Morte_039": {
+      "__uuid__": "b860bcd8-8e9c-40f5-8173-4281fb0a93ec"
+    }
+  }
+}

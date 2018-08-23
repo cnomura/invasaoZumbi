@@ -1,0 +1,431 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "InvasaoZumbi-06.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_002": {
+      "__uuid__": "699ef5a5-a603-4fb5-adf5-329d9486c346"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_003": {
+      "__uuid__": "ada2be03-ac87-4ade-bd1e-32eaa74e5fe9"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_004": {
+      "__uuid__": "d9e99983-bd62-4054-953d-608014e0c145"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_005": {
+      "__uuid__": "21c7a3ac-f083-483e-9def-9b20ee7c5b6b"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_006": {
+      "__uuid__": "b7d7a206-e10d-4270-8abb-9a2d50f17e73"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_007": {
+      "__uuid__": "44bcc75a-8dbe-443e-ae8d-e9312d52276b"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_008": {
+      "__uuid__": "dd2b5870-0391-497c-b9b0-e0b3d3e02141"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_009": {
+      "__uuid__": "7cc69836-9cfd-4723-bdb0-d93bdd554a85"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_010": {
+      "__uuid__": "5ef7aab9-4627-46f4-909e-efc50ada4a5b"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_011": {
+      "__uuid__": "d97364eb-477e-4c27-ae10-7106ae12edff"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_012": {
+      "__uuid__": "db002b8d-4249-4bde-bd1a-aec293cffe33"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_013": {
+      "__uuid__": "f5595e73-3726-41e0-aadc-34a6b4fad454"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_014": {
+      "__uuid__": "5258ad2a-1529-4d1e-92df-c9027729681c"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_015": {
+      "__uuid__": "e3bbe6e2-ab35-4f61-96d1-efbaf7e1d614"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_016": {
+      "__uuid__": "756f6cd3-e4d0-4395-959d-838076b2111a"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_017": {
+      "__uuid__": "71349453-5334-4d2a-b608-6549a3c10399"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_018": {
+      "__uuid__": "63db52b1-d94e-41bb-bad1-e12d09066e7f"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_019": {
+      "__uuid__": "bd1ab968-de2a-4767-a132-950872d979b5"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_020": {
+      "__uuid__": "1ae449e9-a14b-43c8-8088-467154647916"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_021": {
+      "__uuid__": "f49bdd2c-9645-43ab-96a4-87e116ffdb83"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_022": {
+      "__uuid__": "05fa665d-744d-4318-bec3-722c3498b1ad"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_023": {
+      "__uuid__": "c44247a7-6c2d-4377-b37d-86fad70515ca"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_024": {
+      "__uuid__": "2e423d4a-0cd5-4e12-b9d0-574514b86cdd"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_025": {
+      "__uuid__": "1abcc141-0d4a-4ad2-a847-af58edf477cb"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_026": {
+      "__uuid__": "445dc25c-3f8d-4cc6-b26e-665c18f0e517"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_027": {
+      "__uuid__": "1ef3352d-c37f-48a1-ad33-e4c0c295e054"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_028": {
+      "__uuid__": "2662e39f-68d9-4d71-b4bb-f2157d93b44c"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_029": {
+      "__uuid__": "dbfa6fb5-bce4-42d2-b59b-935413755564"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_030": {
+      "__uuid__": "dfe0035c-037e-49d0-8af7-4caf6ecd104e"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_031": {
+      "__uuid__": "d811ca41-af4e-4835-b8b4-d5fe3f9b87ef"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_032": {
+      "__uuid__": "3b628ef4-1303-4703-a72d-17789d6d251e"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_033": {
+      "__uuid__": "e90b75ee-0f53-4281-a881-8e7b7cb8e918"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_034": {
+      "__uuid__": "f2c938a5-749d-4a96-81b3-da756b8d46e2"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_035": {
+      "__uuid__": "699c0e39-3027-4366-91c3-4aa2483d4d7b"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_036": {
+      "__uuid__": "4e29d2b4-8a8a-45b5-9a6b-1a82ad2b7132"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_037": {
+      "__uuid__": "fd15aba3-c3ac-4461-8e21-131b8b305122"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_038": {
+      "__uuid__": "d3483cc0-6b53-47a5-a7ce-5342621e430e"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_039": {
+      "__uuid__": "a634c605-f108-4e44-b4a3-e17bd6be76ad"
+    },
+    "Andar-EsquerdaBaixo-Chefe_AndarEsquerdaBaixo_040": {
+      "__uuid__": "306cf490-5ce7-44d6-be55-fd5e07742294"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_000": {
+      "__uuid__": "a5cdb31c-9a27-4104-8443-d97a3a4c6fe3"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_001": {
+      "__uuid__": "b33cf9ce-729e-43f9-9542-9c10c172a5f7"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_002": {
+      "__uuid__": "b8d3a6d0-50af-4301-8e30-c7dd9925a12d"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_003": {
+      "__uuid__": "35dc3bd5-a317-416a-a02a-d50b98569c9b"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_004": {
+      "__uuid__": "af1092f9-8692-4d9a-b5f9-ae1757a6b427"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_005": {
+      "__uuid__": "2322b9d3-be64-46dd-a7f8-e8050cc5fd38"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_006": {
+      "__uuid__": "a712ee78-0a96-4f02-8911-f0a33e0ab5b0"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_007": {
+      "__uuid__": "93163f5a-b1e5-4dcf-94f9-8207f15f9d34"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_008": {
+      "__uuid__": "6cce2194-8897-4024-833d-abd92c2d4484"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_009": {
+      "__uuid__": "2ab0e2b4-b009-480a-b4f6-cdbdb43c545c"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_010": {
+      "__uuid__": "c72af37f-5a17-467f-b960-6190020fa0bd"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_011": {
+      "__uuid__": "b047d60c-7b13-493f-a7b7-66db7f91c51f"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_012": {
+      "__uuid__": "c1778645-f870-4299-bfd0-72f1ca89f789"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_013": {
+      "__uuid__": "4065feff-f3bb-4cf9-bc7d-155441d1dcfa"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_014": {
+      "__uuid__": "3d418f62-c455-40be-afbd-df20ff1542a2"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_015": {
+      "__uuid__": "714bed78-6d66-44f3-844e-67c160f0569c"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_016": {
+      "__uuid__": "434f2114-ab76-436d-b716-0970a01c4a1b"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_017": {
+      "__uuid__": "323be384-3012-4933-9d0c-7203b83bbe37"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_018": {
+      "__uuid__": "547bb828-85b8-4d85-9ced-8f98109b37fa"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_019": {
+      "__uuid__": "41580205-4e12-4b1a-8e0d-667d19b861c7"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_020": {
+      "__uuid__": "a9b79d4f-cd5a-4542-9652-8df3defc7282"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_021": {
+      "__uuid__": "7618eec0-4b9d-4550-a5ce-ea75da940097"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_022": {
+      "__uuid__": "1d89ba94-0c92-4cb5-bfcf-ed9735b4e26c"
+    },
+    "Andar-EsquerdaBaixo-Jogadora_AndarEsquerdaBaixo_023": {
+      "__uuid__": "116387d5-6047-4074-bdcf-3fabd5a0cbd2"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_000": {
+      "__uuid__": "e813731b-e108-48c3-96a4-c244c69857fe"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_001": {
+      "__uuid__": "8a0389b6-649d-4018-9ab6-f66385bfe76e"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_002": {
+      "__uuid__": "119e4e14-f30a-49cc-97c0-8db50163ce79"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_003": {
+      "__uuid__": "d47009a1-cf85-4812-8109-9ae91bf4f399"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_004": {
+      "__uuid__": "45501cdc-103c-4624-aaa3-d2e141e93beb"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_005": {
+      "__uuid__": "48596c22-f011-4665-bdd5-73aa41a89d80"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_006": {
+      "__uuid__": "7daf0641-241b-4eba-8ebd-5aaee55d594f"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_007": {
+      "__uuid__": "58ecbfea-7448-4c71-81f1-8cdf701d79a5"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_008": {
+      "__uuid__": "a33c2ef1-e17e-49d9-9fd7-d4fa67f30c37"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_009": {
+      "__uuid__": "ecafdb24-1135-4613-9227-11d5d3d0f842"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_010": {
+      "__uuid__": "278f1bb2-dc9a-425a-9c89-68b838b1fff1"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_011": {
+      "__uuid__": "ce2e1601-3a63-4658-abc7-4d8238d1c42e"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_012": {
+      "__uuid__": "0dd40939-5bb7-4532-a3df-561aad6e89d1"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_013": {
+      "__uuid__": "461d84d2-72af-42c6-bb6f-74ba0bdfec64"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_014": {
+      "__uuid__": "ea7c510d-f508-41b7-933f-a32198c64eb3"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_015": {
+      "__uuid__": "2d9fd7b1-5632-46f2-96be-85f3a47fec3e"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_016": {
+      "__uuid__": "f86a5e06-56d4-404e-bed8-24c9a4730294"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_017": {
+      "__uuid__": "7af54621-b1c0-4139-b46d-6825f7131288"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_018": {
+      "__uuid__": "a88ae382-456a-4bb4-a4d3-2dc130590fb1"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_019": {
+      "__uuid__": "784a4086-23cb-411a-9b93-1bd4d8a227c9"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_020": {
+      "__uuid__": "7bc72ed6-1b4d-4f1e-a725-4a969121c1b0"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_021": {
+      "__uuid__": "05fd9bc1-ceae-4916-bbe1-7b7427e9a78d"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_022": {
+      "__uuid__": "e3d98506-a02f-4e26-b15e-b0646a838fc2"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_023": {
+      "__uuid__": "fbffce79-1640-43ef-9716-917bb8d27180"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_024": {
+      "__uuid__": "d4ec2707-ad3e-4b60-9a01-e9b8d8e02ebc"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_025": {
+      "__uuid__": "889f354e-36c1-4041-9a40-d79caac0d4bb"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_026": {
+      "__uuid__": "f9eef9c9-c775-4d39-8da5-596291189c42"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_027": {
+      "__uuid__": "95ff3569-329e-4038-a99b-717b1fc02e6e"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_028": {
+      "__uuid__": "e51dddc1-82f4-48fd-bd7f-d1fbc6b47c16"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_029": {
+      "__uuid__": "5e18adb9-324c-41f2-be62-7d344046127b"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_030": {
+      "__uuid__": "c5545576-5e3d-4d05-846a-6570f1e4c548"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_031": {
+      "__uuid__": "80903497-2865-4af4-a514-13100f974c4f"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_032": {
+      "__uuid__": "81b972c4-7ccc-44d0-8352-1b1cda43d737"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_033": {
+      "__uuid__": "cc7387b5-0814-449b-80b9-fa97060a581a"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_034": {
+      "__uuid__": "2b1b1ed0-139c-4480-9487-67cb896864fb"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_035": {
+      "__uuid__": "894e82fb-f133-4a3a-8a94-33ecf94720ee"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_036": {
+      "__uuid__": "a97a95f4-91ed-4765-8da0-543d4072fdf8"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_037": {
+      "__uuid__": "7a309320-01bc-4f52-a18b-e58af681b5c4"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_038": {
+      "__uuid__": "339a5696-c937-4f57-808a-4707c798af83"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_039": {
+      "__uuid__": "80a978dc-af94-46b8-99a5-490470c0d0cb"
+    },
+    "Andar-EsquerdaBaixo-Zumbi_AndarEsquerdaBaixo_040": {
+      "__uuid__": "196f2fe1-b612-4161-8b18-16fb63d1e464"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_000": {
+      "__uuid__": "75c0230d-4f3f-4bc4-8cbd-07d5e5f8b8ad"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_001": {
+      "__uuid__": "7d02394c-9ee6-4389-a909-876feb003b3d"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_002": {
+      "__uuid__": "584f973b-fc60-4b6c-a976-f7eba6f92f11"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_003": {
+      "__uuid__": "f94980b8-4384-4e29-b868-f2baceda1352"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_004": {
+      "__uuid__": "1e44bc3e-7fff-427d-89c9-fd1000c4744b"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_005": {
+      "__uuid__": "c5b165b0-f4ef-4f96-9ff7-574e32493d0f"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_006": {
+      "__uuid__": "5ba59b30-264f-467a-bf6c-bc28f9f907fb"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_007": {
+      "__uuid__": "16cd3216-c001-44e2-a3f8-91d3b990e4e1"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_008": {
+      "__uuid__": "4d8280ab-dcc2-4e12-b06c-f6541327365e"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_009": {
+      "__uuid__": "5ed4f7a6-1db3-42ea-a451-84f59f391316"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_010": {
+      "__uuid__": "df479279-5294-4540-837c-c6dddf679ec1"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_011": {
+      "__uuid__": "d96861a6-90ad-4d58-a7f2-4d6380a9121f"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_012": {
+      "__uuid__": "c35d76f2-1b8c-405c-899a-99afc743cf9a"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_013": {
+      "__uuid__": "8b4401f1-d99a-47f7-a836-e8f4f4521a90"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_014": {
+      "__uuid__": "e023b904-b266-4f08-bd9a-21829d991182"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_015": {
+      "__uuid__": "1b73d144-d4fb-4eeb-a13c-10adf3432457"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_016": {
+      "__uuid__": "f1de753f-1964-4528-a04a-767069e37cde"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_017": {
+      "__uuid__": "a5775b53-dec9-454c-a588-f9d1a6000ed0"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_018": {
+      "__uuid__": "1362e60c-6756-4528-89f3-13130995cca7"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_019": {
+      "__uuid__": "6da10d5c-b4dc-4788-b213-590cdc8590f8"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_020": {
+      "__uuid__": "1e14c4ec-e9a8-4994-b27c-0ff281c0fe96"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_021": {
+      "__uuid__": "e5ed42bf-0c15-4a39-98b3-322687b7c5ed"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_022": {
+      "__uuid__": "ae86c8af-c426-4cab-949e-f1349047f274"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_023": {
+      "__uuid__": "2f78d174-3acd-4d82-9a95-ce6a3c63af31"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_024": {
+      "__uuid__": "493ed60d-dff3-4ec2-984d-72281f50d082"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_025": {
+      "__uuid__": "4d1a88c1-dd3d-48f4-be1e-f3e23dbc63c3"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_026": {
+      "__uuid__": "edc20842-0511-410f-a18b-c814653ad53b"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_027": {
+      "__uuid__": "bd6ce80c-4f51-4d33-9c4b-fbc1d6ed7fcb"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_028": {
+      "__uuid__": "c3ed18b9-293c-4fc2-b392-9f8fd3999d45"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_029": {
+      "__uuid__": "630f9f80-093c-4af0-927b-6283ab951bd3"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_030": {
+      "__uuid__": "d4bd4123-c939-4421-a931-783da51d4060"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_031": {
+      "__uuid__": "753bf05a-46b2-4726-82e9-596ead3826d5"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_032": {
+      "__uuid__": "b0d3f115-bd13-457d-b186-b44d72d9e10e"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_033": {
+      "__uuid__": "71be8f8c-ee95-40b5-8c5e-cf1fa5ce5677"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_034": {
+      "__uuid__": "e275b726-7b61-4174-9609-7a5b492de0b9"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_035": {
+      "__uuid__": "e0f485f5-bea5-4351-b777-c264a7375d70"
+    },
+    "Andar-EsquerdaCima-Chefe_AndarEsquerdaCima_036": {
+      "__uuid__": "837bfe82-880e-4c2a-9db3-bb8da4f58ef6"
+    }
+  }
+}

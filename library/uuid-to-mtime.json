@@ -1,0 +1,997 @@
+{
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1529593169423,
+    "meta": 1527619626000,
+    "relativePath": "image"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1527619626000,
+    "meta": 1529593671146,
+    "relativePath": "image\\default_btn_disabled.png"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1527619626000,
+    "meta": 1529593671162,
+    "relativePath": "image\\default_btn_normal.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1527619626000,
+    "meta": 1529593671189,
+    "relativePath": "image\\default_btn_pressed.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1527619626000,
+    "meta": 1529593671177,
+    "relativePath": "image\\default_panel.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1527619626000,
+    "meta": 1529593671205,
+    "relativePath": "image\\default_progressbar_bg.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1527619626000,
+    "meta": 1529593671213,
+    "relativePath": "image\\default_progressbar.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1527619626000,
+    "meta": 1529593671238,
+    "relativePath": "image\\default_radio_button_off.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1527619626000,
+    "meta": 1529593671229,
+    "relativePath": "image\\default_radio_button_on.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1527619626000,
+    "meta": 1529593671260,
+    "relativePath": "image\\default_scrollbar_bg.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1527619626000,
+    "meta": 1529593671250,
+    "relativePath": "image\\default_scrollbar_vertical_bg.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1527619626000,
+    "meta": 1529593671279,
+    "relativePath": "image\\default_scrollbar_vertical.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1527619626000,
+    "meta": 1529593671288,
+    "relativePath": "image\\default_scrollbar.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1527619626000,
+    "meta": 1529593671311,
+    "relativePath": "image\\default_sprite_splash.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1527619626000,
+    "meta": 1529593671313,
+    "relativePath": "image\\default_sprite.png"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1527619626000,
+    "meta": 1529593671335,
+    "relativePath": "image\\default_toggle_disabled.png"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1527619626000,
+    "meta": 1529593671328,
+    "relativePath": "image\\default_toggle_checkmark.png"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1527619626000,
+    "meta": 1529593671360,
+    "relativePath": "image\\default_toggle_pressed.png"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1527619626000,
+    "meta": 1529593671351,
+    "relativePath": "image\\default_toggle_normal.png"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1529593133871,
+    "meta": 1527619626000,
+    "relativePath": "misc"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1527619626000,
+    "meta": 1527619626000,
+    "relativePath": "misc\\default_video.mp4"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1529593144391,
+    "meta": 1527619626000,
+    "relativePath": "obsolete"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1527619626000,
+    "meta": 1527619626000,
+    "relativePath": "obsolete\\atom.plist"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1529593133893,
+    "meta": 1527619626000,
+    "relativePath": "particle"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1527619626000,
+    "meta": 1527619626000,
+    "relativePath": "particle\\atom.plist"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1529593218045,
+    "meta": 1527619626000,
+    "relativePath": "prefab"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1527619626000,
+    "meta": 1529593671394,
+    "relativePath": "prefab\\button.prefab"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1527619626000,
+    "meta": 1529593671383,
+    "relativePath": "prefab\\canvas.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1527619626000,
+    "meta": 1529593671417,
+    "relativePath": "prefab\\label.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1527619626000,
+    "meta": 1529593671406,
+    "relativePath": "prefab\\editbox.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1527619626000,
+    "meta": 1529593671428,
+    "relativePath": "prefab\\layout.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1527619626000,
+    "meta": 1529593671431,
+    "relativePath": "prefab\\pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1527619626000,
+    "meta": 1529593671447,
+    "relativePath": "prefab\\particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1527619626000,
+    "meta": 1529593671447,
+    "relativePath": "prefab\\progressBar.prefab"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1527619626000,
+    "meta": 1529593671463,
+    "relativePath": "prefab\\richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1527619626000,
+    "meta": 1529593671463,
+    "relativePath": "prefab\\scrollview.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1527619626000,
+    "meta": 1529593671495,
+    "relativePath": "prefab\\sprite_splash.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1527619626000,
+    "meta": 1529593671479,
+    "relativePath": "prefab\\slider.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1527619626000,
+    "meta": 1529593671510,
+    "relativePath": "prefab\\sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1527619626000,
+    "meta": 1529593671522,
+    "relativePath": "prefab\\tiledmap.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1527619626000,
+    "meta": 1529593671531,
+    "relativePath": "prefab\\toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1527619626000,
+    "meta": 1529593671545,
+    "relativePath": "prefab\\toggleContainer.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1527619626000,
+    "meta": 1529593671574,
+    "relativePath": "prefab\\videoplayer.prefab"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1527619626000,
+    "meta": 1529593671581,
+    "relativePath": "prefab\\webview.prefab"
+  },
+  "60b72238-1630-4381-9d85-ea738e1881f8": {
+    "asset": 1529593231714,
+    "meta": 1516125275000,
+    "relativePath": "Animacoes"
+  },
+  "3264c940-0da5-4fee-befe-188a8170db54": {
+    "asset": 1529593287739,
+    "meta": 1516125275000,
+    "relativePath": "Animacoes\\Inimigo"
+  },
+  "7c2ba684-1422-4349-8946-c6c28e4186a8": {
+    "asset": 1516125275000,
+    "meta": 1529593674715,
+    "relativePath": "Animacoes\\Inimigo\\Andar\\AndarBaixo.anim"
+  },
+  "3f3cc8bf-12fe-45e7-8b90-80894b00474c": {
+    "asset": 1516125275000,
+    "meta": 1529593674705,
+    "relativePath": "Animacoes\\Inimigo\\Andar\\AndarCima.anim"
+  },
+  "5adb0d6c-567d-4e4f-91b7-6dd98c5086b0": {
+    "asset": 1516125275000,
+    "meta": 1529593674754,
+    "relativePath": "Animacoes\\Inimigo\\Andar\\AndarDireita.anim"
+  },
+  "e040fa14-377d-4f9b-8dee-6845273e349b": {
+    "asset": 1516125275000,
+    "meta": 1529593674758,
+    "relativePath": "Animacoes\\Inimigo\\Andar\\AndarDireitaBaixo.anim"
+  },
+  "3b11b63a-c79a-466a-93e9-2f5f4b96ce8a": {
+    "asset": 1516125275000,
+    "meta": 1529593674805,
+    "relativePath": "Animacoes\\Inimigo\\Andar\\AndarDireitaCima.anim"
+  },
+  "c7bbb310-96c2-4718-a82b-a0d2de06f01e": {
+    "asset": 1516125275000,
+    "meta": 1529593674812,
+    "relativePath": "Animacoes\\Inimigo\\Andar\\AndarEsquerda.anim"
+  },
+  "3ecad944-f223-434f-a968-fdea8ab97902": {
+    "asset": 1516125275000,
+    "meta": 1529593674839,
+    "relativePath": "Animacoes\\Inimigo\\Andar\\AndarEsquerdaBaixo.anim"
+  },
+  "f20cc5f4-b0ae-4678-aede-8f96490de922": {
+    "asset": 1516125275000,
+    "meta": 1529593674851,
+    "relativePath": "Animacoes\\Inimigo\\Andar\\AndarEsquerdaCima.anim"
+  },
+  "1d52503c-ec71-46db-a6b8-1769c14c6bd2": {
+    "asset": 1529593289241,
+    "meta": 1516125275000,
+    "relativePath": "Animacoes\\Perosnagem"
+  },
+  "519487fb-fd21-48c0-ad6a-c4af8a96ed8d": {
+    "asset": 1516125275000,
+    "meta": 1529593675028,
+    "relativePath": "Animacoes\\Inimigo\\Parado.anim"
+  },
+  "efda277c-4151-4dcb-9d06-283bae295e71": {
+    "asset": 1516125275000,
+    "meta": 1529593675077,
+    "relativePath": "Animacoes\\Perosnagem\\AndarBaixo.anim"
+  },
+  "ada6e8a6-797d-4e89-a4d8-b9a3e83bf0c1": {
+    "asset": 1516125275000,
+    "meta": 1529593675100,
+    "relativePath": "Animacoes\\Perosnagem\\AndarCima.anim"
+  },
+  "f1dce304-c852-40a5-9548-9648572f11f9": {
+    "asset": 1516125275000,
+    "meta": 1529593675108,
+    "relativePath": "Animacoes\\Perosnagem\\AndarDireita.anim"
+  },
+  "360eb438-7a5a-4212-a4ec-f9a29b2e895f": {
+    "asset": 1516125275000,
+    "meta": 1529593675124,
+    "relativePath": "Animacoes\\Perosnagem\\AndarDireitaBaixo.anim"
+  },
+  "e009cca8-cd5e-43ed-a05d-3b43d9739fcc": {
+    "asset": 1516125275000,
+    "meta": 1529593675136,
+    "relativePath": "Animacoes\\Perosnagem\\AndarDireitaCima.anim"
+  },
+  "7814c87f-da82-4fd1-ac3c-fb03a2051be5": {
+    "asset": 1516125275000,
+    "meta": 1529593675152,
+    "relativePath": "Animacoes\\Perosnagem\\AndarEsquerda.anim"
+  },
+  "25134635-5600-4996-b9e2-49bcd3e861f4": {
+    "asset": 1516125275000,
+    "meta": 1529593675173,
+    "relativePath": "Animacoes\\Perosnagem\\AndarEsquerdaBaixo.anim"
+  },
+  "00b96040-f7c1-499f-9690-e85fb2d15ee4": {
+    "asset": 1516125275000,
+    "meta": 1529593675201,
+    "relativePath": "Animacoes\\Perosnagem\\AndarEsquerdaCima.anim"
+  },
+  "c50753af-e6e9-4f29-954e-44fd19c42025": {
+    "asset": 1516125275000,
+    "meta": 1529593675222,
+    "relativePath": "Animacoes\\Perosnagem\\ParadoBaixo.anim"
+  },
+  "40cd45e3-fce8-4926-9829-4118ef67082a": {
+    "asset": 1516125275000,
+    "meta": 1529593675258,
+    "relativePath": "Animacoes\\Perosnagem\\ParadoCima.anim"
+  },
+  "b09eb6c3-b871-4b3c-b256-cd9e776cde28": {
+    "asset": 1516125275000,
+    "meta": 1529593675284,
+    "relativePath": "Animacoes\\Perosnagem\\ParadoDireita.anim"
+  },
+  "efed7630-93d5-4249-93b2-07acd711596e": {
+    "asset": 1516125275000,
+    "meta": 1529593675296,
+    "relativePath": "Animacoes\\Perosnagem\\ParadoDireitaBaixo.anim"
+  },
+  "40824653-66aa-4efd-8aa2-2d2832120862": {
+    "asset": 1516125275000,
+    "meta": 1529593675318,
+    "relativePath": "Animacoes\\Perosnagem\\ParadoDireitaCima.anim"
+  },
+  "072c3898-cde4-4817-8122-b18604ee1abf": {
+    "asset": 1516125275000,
+    "meta": 1529593675340,
+    "relativePath": "Animacoes\\Perosnagem\\ParadoEsquerda.anim"
+  },
+  "c5027403-2002-4da6-8919-6f795e3825ed": {
+    "asset": 1516125275000,
+    "meta": 1529593675342,
+    "relativePath": "Animacoes\\Perosnagem\\ParadoEsquerdaBaixo.anim"
+  },
+  "139bb71b-a772-4f24-b06c-1a85bad78e13": {
+    "asset": 1529593255083,
+    "meta": 1516125275000,
+    "relativePath": "Imagens"
+  },
+  "a7a1e2f9-f80c-4915-8b57-d14f677cf758": {
+    "asset": 1516125275000,
+    "meta": 1529593675407,
+    "relativePath": "Animacoes\\Perosnagem\\ParadoEsquerdaCima.anim"
+  },
+  "adaf59b9-5c96-4550-afa2-83cb5caecff1": {
+    "asset": 1516125275000,
+    "meta": 1529593680726,
+    "relativePath": "Imagens\\Tiro.png"
+  },
+  "b1b819d6-754e-4a9b-a9d2-8a24bff4c720": {
+    "asset": 1527185628000,
+    "meta": 1529593680856,
+    "relativePath": "Jogo.fire"
+  },
+  "609766a9-58bf-481f-a4df-d35a0f6eb813": {
+    "asset": 1529593272089,
+    "meta": 1516125275000,
+    "relativePath": "Prefabs"
+  },
+  "ba8bf90c-75c2-4465-91e9-7ec7dea90eb6": {
+    "asset": 1516125275000,
+    "meta": 1529593681092,
+    "relativePath": "Prefabs\\Tiro.prefab"
+  },
+  "66dfbd53-7703-4d8d-995e-f4137a9a904e": {
+    "asset": 1529593172992,
+    "meta": 1516125275000,
+    "relativePath": "Scripts"
+  },
+  "65bf74ea-f0ad-46af-84a6-e29f55a14ec1": {
+    "asset": 1516125275000,
+    "meta": 1529593681599,
+    "relativePath": "Prefabs\\Zumbi.prefab"
+  },
+  "7fefff2d-b400-4ab6-bced-09c9b8bd7d30": {
+    "asset": 1527172026000,
+    "meta": 1529593682069,
+    "relativePath": "Scripts\\ColisaoCenario.js"
+  },
+  "9d4cbf04-9993-45f8-8874-3759b46a6207": {
+    "asset": 1527172157000,
+    "meta": 1529593682532,
+    "relativePath": "Scripts\\Movimentacao.js"
+  },
+  "c4fa02e4-2939-48cd-b1b8-f3647423d784": {
+    "asset": 1516125275000,
+    "meta": 1516125275000,
+    "relativePath": "Audio\\trilha.ogg"
+  },
+  "7a912326-344b-4733-af99-dc948d74a513": {
+    "asset": 1527172029000,
+    "meta": 1529593682144,
+    "relativePath": "Scripts\\ControleCamera.js"
+  },
+  "b6b3663e-bdba-48ad-8e90-662a732df574": {
+    "asset": 1527172528000,
+    "meta": 1529593682475,
+    "relativePath": "Scripts\\LimitadorDeMovimento.js"
+  },
+  "876e1ace-af95-4ca4-ab30-add7008e82ed": {
+    "asset": 1516125275000,
+    "meta": 1529593680696,
+    "relativePath": "Imagens\\Caveira.png"
+  },
+  "adcf8e1a-9a72-4112-99f0-119e8937a968": {
+    "asset": 1527172169000,
+    "meta": 1529593682591,
+    "relativePath": "Scripts\\Pontucao.js"
+  },
+  "004f67aa-34c7-40c3-98e9-1030098557fc": {
+    "asset": 1527172009000,
+    "meta": 1529593681893,
+    "relativePath": "Scripts\\BarraDeVida.js"
+  },
+  "b1de0583-4d3d-4980-9a9f-2d2316525406": {
+    "asset": 1516125275000,
+    "meta": 1516125275000,
+    "relativePath": "Audio\\SomTiro.ogg"
+  },
+  "124b8a91-2d1c-4788-b241-2929b170f2b2": {
+    "asset": 1529593275537,
+    "meta": 1516125275000,
+    "relativePath": "Audio"
+  },
+  "fab364e3-62c8-4277-84a4-cce083d65e18": {
+    "asset": 1516125275000,
+    "meta": 1516125275000,
+    "relativePath": "Audio\\MorteZumbi.ogg"
+  },
+  "5a5f114a-eddd-4fdf-9afb-48566e8c2825": {
+    "asset": 1527172204000,
+    "meta": 1529593682690,
+    "relativePath": "Scripts\\TocarAudioComEvento.js"
+  },
+  "489662b4-4154-461e-bb60-e658ddc9c4b2": {
+    "asset": 1516125275000,
+    "meta": 1516125275000,
+    "relativePath": "Audio\\CoracaoBatendo.wav"
+  },
+  "f2b06ea0-d4e0-45e7-861c-80d631bc9cb4": {
+    "asset": 1527172010000,
+    "meta": 1529593681777,
+    "relativePath": "Scripts\\AudioCoracao.js"
+  },
+  "1b807be7-a07f-4b75-a0b3-c41eca739dc2": {
+    "asset": 1527172048000,
+    "meta": 1529593682216,
+    "relativePath": "Scripts\\GameOver.js"
+  },
+  "8e9a13d8-220a-42c6-8f19-9d4b3809206f": {
+    "asset": 1527172202000,
+    "meta": 1529593682665,
+    "relativePath": "Scripts\\Teclado.js"
+  },
+  "ef119131-be78-44fe-9e8c-819d8ab8d115": {
+    "asset": 1527171907000,
+    "meta": 1529593681706,
+    "relativePath": "Scripts\\AjusteZIndex.js"
+  },
+  "c57668a5-77cf-46ff-a2cd-feb1b0b3ef86": {
+    "asset": 1527172192000,
+    "meta": 1529593682678,
+    "relativePath": "Scripts\\Tiro.js"
+  },
+  "ff737ab4-2b73-4a65-b778-de3a0a737579": {
+    "asset": 1516125275000,
+    "meta": 1529593681109,
+    "relativePath": "Prefabs\\TiroMaisForte.prefab"
+  },
+  "de0cbe67-db28-4e61-9038-5f9e26d85666": {
+    "asset": 1527172017000,
+    "meta": 1529593681931,
+    "relativePath": "Scripts\\BarraDeVidaInimigo.js"
+  },
+  "fc45f1fd-a59b-47cb-ad96-b2aabf6b1289": {
+    "asset": 1529593284530,
+    "meta": 1516125275000,
+    "relativePath": "Atlas"
+  },
+  "cf945e6e-3a30-44ed-9794-5c514638ee61": {
+    "asset": 1516125275000,
+    "meta": 1529593682926,
+    "relativePath": "Atlas\\InvasaoZumbi-00.plist"
+  },
+  "aeaa8ae3-409f-413f-b774-59b096eb5196": {
+    "asset": 1516125275000,
+    "meta": 1529593682981,
+    "relativePath": "Atlas\\InvasaoZumbi-01.plist"
+  },
+  "e91609ea-c9a8-4f0c-9f41-7f4b59f398e2": {
+    "asset": 1516125275000,
+    "meta": 1529593675781,
+    "relativePath": "Atlas\\InvasaoZumbi-01.png"
+  },
+  "6497fd0e-f848-4105-b487-dbd922f603f3": {
+    "asset": 1516125275000,
+    "meta": 1529593675661,
+    "relativePath": "Atlas\\InvasaoZumbi-00.png"
+  },
+  "154bfaee-35c9-41c0-83f2-d923b842baa2": {
+    "asset": 1516125275000,
+    "meta": 1529593683706,
+    "relativePath": "Atlas\\InvasaoZumbi-010.plist"
+  },
+  "7f917449-a308-41e8-b674-42f190747140": {
+    "asset": 1516125275000,
+    "meta": 1529593683926,
+    "relativePath": "Atlas\\InvasaoZumbi-011.plist"
+  },
+  "d8ba9841-ca93-479f-8e38-718e0a061d21": {
+    "asset": 1516125275000,
+    "meta": 1529593676149,
+    "relativePath": "Atlas\\InvasaoZumbi-011.png"
+  },
+  "10a3d58d-4ff8-468d-87c6-3f63cb433303": {
+    "asset": 1516125275000,
+    "meta": 1529593684009,
+    "relativePath": "Atlas\\InvasaoZumbi-012.plist"
+  },
+  "216e2ced-be9c-490e-8833-cb86876f4e19": {
+    "asset": 1516125275000,
+    "meta": 1529593676184,
+    "relativePath": "Atlas\\InvasaoZumbi-010.png"
+  },
+  "32438c83-1740-44a0-b0dd-1d04e0121455": {
+    "asset": 1516125275000,
+    "meta": 1529593684043,
+    "relativePath": "Atlas\\InvasaoZumbi-013.plist"
+  },
+  "a2e2be94-d02a-4c77-be18-88b30e0053b9": {
+    "asset": 1516125275000,
+    "meta": 1529593676557,
+    "relativePath": "Atlas\\InvasaoZumbi-012.png"
+  },
+  "aedc6ae9-e1b6-4d9f-9877-ee5af988788a": {
+    "asset": 1516125275000,
+    "meta": 1529593684601,
+    "relativePath": "Atlas\\InvasaoZumbi-014.plist"
+  },
+  "ce5d0ac5-f194-4b4e-9989-508869a65d7b": {
+    "asset": 1516125275000,
+    "meta": 1529593676490,
+    "relativePath": "Atlas\\InvasaoZumbi-013.png"
+  },
+  "c998a881-2617-4927-9b8b-2983622cb238": {
+    "asset": 1516125275000,
+    "meta": 1529593684621,
+    "relativePath": "Atlas\\InvasaoZumbi-015.plist"
+  },
+  "0164c540-9acb-4b7d-80d1-b3d8341cc7f8": {
+    "asset": 1516125275000,
+    "meta": 1529593676986,
+    "relativePath": "Atlas\\InvasaoZumbi-015.png"
+  },
+  "157b7a83-e010-4fe2-8fff-2d769dad9884": {
+    "asset": 1516125275000,
+    "meta": 1529593685722,
+    "relativePath": "Atlas\\InvasaoZumbi-016.plist"
+  },
+  "bd6b21ee-3f23-46e3-86dc-d5d83bd0841b": {
+    "asset": 1516125275000,
+    "meta": 1529593677158,
+    "relativePath": "Atlas\\InvasaoZumbi-014.png"
+  },
+  "5f9d6194-ac9b-4a3c-b29f-d89f4f00c47d": {
+    "asset": 1516125275000,
+    "meta": 1529593687181,
+    "relativePath": "Atlas\\InvasaoZumbi-017.plist"
+  },
+  "90afb6cd-c3c0-456b-b693-51f1213e200e": {
+    "asset": 1516125275000,
+    "meta": 1529593677696,
+    "relativePath": "Atlas\\InvasaoZumbi-016.png"
+  },
+  "efe8cbde-da93-4d49-8e98-3baeb17cf4c1": {
+    "asset": 1516125275000,
+    "meta": 1529593688404,
+    "relativePath": "Atlas\\InvasaoZumbi-018.plist"
+  },
+  "3bc1e0f4-04a5-4825-ac9a-78afb1173daa": {
+    "asset": 1516125275000,
+    "meta": 1529593677896,
+    "relativePath": "Atlas\\InvasaoZumbi-017.png"
+  },
+  "8d2c9df6-774f-4585-bec4-2e3bb308e61a": {
+    "asset": 1516125275000,
+    "meta": 1529593689800,
+    "relativePath": "Atlas\\InvasaoZumbi-019.plist"
+  },
+  "6bc7a384-96fa-471d-8dd6-a6cf8ec9297a": {
+    "asset": 1516125275000,
+    "meta": 1529593678433,
+    "relativePath": "Atlas\\InvasaoZumbi-018.png"
+  },
+  "149bfdc5-5056-436b-bd26-23dad5ead651": {
+    "asset": 1516125275000,
+    "meta": 1529593689984,
+    "relativePath": "Atlas\\InvasaoZumbi-02.plist"
+  },
+  "18dc6854-b96a-4dd6-b16e-c630d0655482": {
+    "asset": 1516125275000,
+    "meta": 1529593678492,
+    "relativePath": "Atlas\\InvasaoZumbi-019.png"
+  },
+  "e3403d99-686e-4d8c-99b5-8823287b1142": {
+    "asset": 1516125275000,
+    "meta": 1529593690292,
+    "relativePath": "Atlas\\InvasaoZumbi-020.plist"
+  },
+  "f12f734f-081d-4ed8-8551-b64fb272db0e": {
+    "asset": 1516125275000,
+    "meta": 1529593678789,
+    "relativePath": "Atlas\\InvasaoZumbi-02.png"
+  },
+  "7b698b17-3533-448b-9720-809a71c244b4": {
+    "asset": 1516125275000,
+    "meta": 1529593691778,
+    "relativePath": "Atlas\\InvasaoZumbi-03.plist"
+  },
+  "c89ce02e-8484-4a10-a8f9-1d06b1944655": {
+    "asset": 1516125275000,
+    "meta": 1529593678995,
+    "relativePath": "Atlas\\InvasaoZumbi-020.png"
+  },
+  "639ad82f-6295-4026-b203-3b5b12a820ad": {
+    "asset": 1516125275000,
+    "meta": 1529593692580,
+    "relativePath": "Atlas\\InvasaoZumbi-04.plist"
+  },
+  "32bfcf0c-b71a-4e68-b56e-fb7ba088492e": {
+    "asset": 1516125275000,
+    "meta": 1529593679642,
+    "relativePath": "Atlas\\InvasaoZumbi-03.png"
+  },
+  "c0340fd3-58c6-4867-86ca-eaa6462dc33d": {
+    "asset": 1516125275000,
+    "meta": 1529593693434,
+    "relativePath": "Atlas\\InvasaoZumbi-05.plist"
+  },
+  "86071d86-6f4d-4f16-a135-6f5719634fcd": {
+    "asset": 1516125275000,
+    "meta": 1529593679497,
+    "relativePath": "Atlas\\InvasaoZumbi-04.png"
+  },
+  "a3edd364-e2d7-4002-bddf-5e209ad2d6a2": {
+    "asset": 1516125275000,
+    "meta": 1529593694203,
+    "relativePath": "Atlas\\InvasaoZumbi-06.plist"
+  },
+  "2dc5428b-e299-4d78-bb69-0a5c400f6d7f": {
+    "asset": 1516125275000,
+    "meta": 1529593680215,
+    "relativePath": "Atlas\\InvasaoZumbi-05.png"
+  },
+  "de010516-1b17-4224-a890-12e8dfb2d0e3": {
+    "asset": 1516125275000,
+    "meta": 1529593680091,
+    "relativePath": "Atlas\\InvasaoZumbi-06.png"
+  },
+  "2ff083b9-4f1b-4b8a-87e5-6ce4ccfe9ad9": {
+    "asset": 1516125275000,
+    "meta": 1529593694886,
+    "relativePath": "Atlas\\InvasaoZumbi-07.plist"
+  },
+  "0e031fca-efc7-4b24-99f6-c6e2b63bb97c": {
+    "asset": 1516125275000,
+    "meta": 1529593695541,
+    "relativePath": "Atlas\\InvasaoZumbi-08.plist"
+  },
+  "56e196d6-155e-4279-a1dd-67a5c48afcfe": {
+    "asset": 1516125275000,
+    "meta": 1529593680556,
+    "relativePath": "Atlas\\InvasaoZumbi-07.png"
+  },
+  "931b1ffd-6577-4298-b076-549086debee6": {
+    "asset": 1516125275000,
+    "meta": 1529593696202,
+    "relativePath": "Atlas\\InvasaoZumbi-09.plist"
+  },
+  "2b4985bd-b7b0-4878-adc5-c4275261814d": {
+    "asset": 1516125275000,
+    "meta": 1529593680641,
+    "relativePath": "Atlas\\InvasaoZumbi-08.png"
+  },
+  "1165a016-473e-45f0-9777-146b0af2a936": {
+    "asset": 1516125275000,
+    "meta": 1529593680881,
+    "relativePath": "Atlas\\InvasaoZumbi-09.png"
+  },
+  "3dca5392-e46e-4c70-8bbe-8a4ea12e3177": {
+    "asset": 1529593298931,
+    "meta": 1516125275000,
+    "relativePath": "Animacoes\\Inimigo\\Andar"
+  },
+  "e366f2d1-f1e0-4371-bbfa-d5ff20b4b43c": {
+    "asset": 1529593299204,
+    "meta": 1516125275000,
+    "relativePath": "Animacoes\\Inimigo\\Atacar"
+  },
+  "aca99de2-b72c-4522-bf7e-c4152f2312bb": {
+    "asset": 1516125275000,
+    "meta": 1529593674880,
+    "relativePath": "Animacoes\\Inimigo\\Atacar\\AtacarCima.anim"
+  },
+  "bf279471-b330-41aa-93e6-e09a85936c4b": {
+    "asset": 1516125275000,
+    "meta": 1529593674863,
+    "relativePath": "Animacoes\\Inimigo\\Atacar\\AtacarBaixo.anim"
+  },
+  "50c911f2-0e81-4c3c-b450-b6024f089ce2": {
+    "asset": 1516125275000,
+    "meta": 1529593674900,
+    "relativePath": "Animacoes\\Inimigo\\Atacar\\AtacarDireita.anim"
+  },
+  "b4114e89-b65d-461b-9a29-2efc95a4163b": {
+    "asset": 1516125275000,
+    "meta": 1529593674954,
+    "relativePath": "Animacoes\\Inimigo\\Atacar\\AtacarEsquerda.anim"
+  },
+  "25343085-9839-4607-ab5b-4afa938559f0": {
+    "asset": 1516125275000,
+    "meta": 1529593674934,
+    "relativePath": "Animacoes\\Inimigo\\Atacar\\AtacarDireitaCima.anim"
+  },
+  "fd0b8868-eb7b-4d3c-bc41-57368ec3b7f3": {
+    "asset": 1516125275000,
+    "meta": 1529593674918,
+    "relativePath": "Animacoes\\Inimigo\\Atacar\\AtacarDireitaBaixo.anim"
+  },
+  "2d3b1736-2a58-4dad-8952-135203fcff6a": {
+    "asset": 1516125275000,
+    "meta": 1529593674991,
+    "relativePath": "Animacoes\\Inimigo\\Atacar\\AtacarEsquerdaCima.anim"
+  },
+  "fa427f8c-f932-41e8-8fc1-3e9c303f20a0": {
+    "asset": 1516125275000,
+    "meta": 1529593674972,
+    "relativePath": "Animacoes\\Inimigo\\Atacar\\AtacarEsquerdaBaixo.anim"
+  },
+  "b89be33c-b32e-4302-8bce-25db9aed4b16": {
+    "asset": 1527172041000,
+    "meta": 1529593682162,
+    "relativePath": "Scripts\\ControleDeAnimacao.js"
+  },
+  "51fe6626-b105-4b3c-a6c2-26ad59e63e19": {
+    "asset": 1529593288612,
+    "meta": 1516125275000,
+    "relativePath": "Animacoes\\Chefe"
+  },
+  "15510abd-ab65-4b36-8647-40d9aaa79fa2": {
+    "asset": 1529593299374,
+    "meta": 1516125275000,
+    "relativePath": "Animacoes\\Chefe\\Andar"
+  },
+  "ce3ebb22-8711-443e-af74-df4e3a6df5ec": {
+    "asset": 1516125275000,
+    "meta": 1529593674285,
+    "relativePath": "Animacoes\\Chefe\\Andar\\AndarCima.anim"
+  },
+  "ef29bd2e-ca6f-4167-bf22-710a15b29afb": {
+    "asset": 1516125275000,
+    "meta": 1529593674270,
+    "relativePath": "Animacoes\\Chefe\\Andar\\AndarBaixo.anim"
+  },
+  "0908b572-0ea0-4e5e-8ab6-6da2c975f940": {
+    "asset": 1516125275000,
+    "meta": 1529593674313,
+    "relativePath": "Animacoes\\Chefe\\Andar\\AndarDireita.anim"
+  },
+  "63185082-5ae6-441c-b2ab-d136e86a4466": {
+    "asset": 1516125275000,
+    "meta": 1529593674366,
+    "relativePath": "Animacoes\\Chefe\\Andar\\AndarEsquerda.anim"
+  },
+  "7b370216-db6e-4b10-9994-37b8def22e3e": {
+    "asset": 1516125275000,
+    "meta": 1529593674355,
+    "relativePath": "Animacoes\\Chefe\\Andar\\AndarDireitaCima.anim"
+  },
+  "0e360fb1-9f61-41b3-b696-4501143fcfcb": {
+    "asset": 1516125275000,
+    "meta": 1529593674323,
+    "relativePath": "Animacoes\\Chefe\\Andar\\AndarDireitaBaixo.anim"
+  },
+  "cedf134d-f0d5-4f60-ad76-96b6390dd4ef": {
+    "asset": 1516125275000,
+    "meta": 1529593674412,
+    "relativePath": "Animacoes\\Chefe\\Andar\\AndarEsquerdaCima.anim"
+  },
+  "127f978b-c5a2-4dc8-9dbc-b8b0f815496f": {
+    "asset": 1516125275000,
+    "meta": 1529593674402,
+    "relativePath": "Animacoes\\Chefe\\Andar\\AndarEsquerdaBaixo.anim"
+  },
+  "45c831bd-8f26-4cfd-b2ec-4212757c4f35": {
+    "asset": 1529593299512,
+    "meta": 1516125275000,
+    "relativePath": "Animacoes\\Chefe\\Atacar"
+  },
+  "696b567d-f15e-4760-a36d-b00e2994495d": {
+    "asset": 1516125275000,
+    "meta": 1529593674432,
+    "relativePath": "Animacoes\\Chefe\\Atacar\\AtacarBaixo.anim"
+  },
+  "b627d8fb-7c38-441f-81f9-0aa63ab4e7bc": {
+    "asset": 1516125275000,
+    "meta": 1529593674449,
+    "relativePath": "Animacoes\\Chefe\\Atacar\\AtacarCima.anim"
+  },
+  "f2d01cd2-f1da-482a-ac25-ca21d61c7849": {
+    "asset": 1516125275000,
+    "meta": 1529593674466,
+    "relativePath": "Animacoes\\Chefe\\Atacar\\AtacarDireita.anim"
+  },
+  "d785c76b-bfd3-4142-9100-3f89ea3bb3cc": {
+    "asset": 1516125275000,
+    "meta": 1529593674508,
+    "relativePath": "Animacoes\\Chefe\\Atacar\\AtacarDireitaCima.anim"
+  },
+  "2e8b2767-f904-4c75-aed0-7c5ff90c8c88": {
+    "asset": 1516125275000,
+    "meta": 1529593674487,
+    "relativePath": "Animacoes\\Chefe\\Atacar\\AtacarDireitaBaixo.anim"
+  },
+  "023471bf-e4e9-4402-aad9-45f126ecfb67": {
+    "asset": 1516125275000,
+    "meta": 1529593674534,
+    "relativePath": "Animacoes\\Chefe\\Atacar\\AtacarEsquerda.anim"
+  },
+  "29e5b9a7-190b-4c54-9c83-9c0aa43f6ea1": {
+    "asset": 1516125275000,
+    "meta": 1529593674606,
+    "relativePath": "Animacoes\\Chefe\\Atacar\\AtacarEsquerdaCima.anim"
+  },
+  "e0c122ca-1ca3-48d1-9380-9d0ee5bb52bd": {
+    "asset": 1516125275000,
+    "meta": 1529593674570,
+    "relativePath": "Animacoes\\Chefe\\Atacar\\AtacarEsquerdaBaixo.anim"
+  },
+  "9622fe95-380e-4f46-b725-8d331dac42b8": {
+    "asset": 1516125275000,
+    "meta": 1529593674667,
+    "relativePath": "Animacoes\\Chefe\\Parado.anim"
+  },
+  "398105b8-a02c-43b7-8132-4eb99a1ac196": {
+    "asset": 1516125275000,
+    "meta": 1529593681042,
+    "relativePath": "Prefabs\\Chefe.prefab"
+  },
+  "78533bf5-78af-4f07-80c6-db9a33d49770": {
+    "asset": 1527172161000,
+    "meta": 1529593682543,
+    "relativePath": "Scripts\\PontoDeNascimentoChefe.js"
+  },
+  "8fe24e29-3400-4eee-8cd0-74af49645dd8": {
+    "asset": 1516125275000,
+    "meta": 1529593681076,
+    "relativePath": "Prefabs\\PontoDeNascimentoDoChefe.prefab"
+  },
+  "ca44cca2-b415-4d8a-849b-92fbd9323307": {
+    "asset": 1527172060000,
+    "meta": 1529593682248,
+    "relativePath": "Scripts\\GeradorDeChefes.js"
+  },
+  "d2d83847-fd28-4e40-aa7e-b58a1415450c": {
+    "asset": 1516125275000,
+    "meta": 1529593674639,
+    "relativePath": "Animacoes\\Chefe\\MorteBaixo.anim"
+  },
+  "032517d6-7ea5-4363-a7f8-1fb602983a4b": {
+    "asset": 1516125275000,
+    "meta": 1529593675010,
+    "relativePath": "Animacoes\\Inimigo\\MorteBaixo.anim"
+  },
+  "596d145c-4169-4405-b16b-555b02bf925c": {
+    "asset": 1527172117000,
+    "meta": 1529593682429,
+    "relativePath": "Scripts\\KitMedico.js"
+  },
+  "d3299227-3ff8-40a0-a464-eadc34169210": {
+    "asset": 1527172114000,
+    "meta": 1529593682416,
+    "relativePath": "Scripts\\Jogador.js"
+  },
+  "05038faf-d87f-42f5-b0da-e8b4aa3c42c6": {
+    "asset": 1516125275000,
+    "meta": 1529593681057,
+    "relativePath": "Prefabs\\KitMedico.prefab"
+  },
+  "68d5fd23-12e4-4c0a-bc2c-61974d6d2311": {
+    "asset": 1527172179000,
+    "meta": 1529593682603,
+    "relativePath": "Scripts\\SoltarItem.js"
+  },
+  "0b99e29d-e63a-4c2b-9e01-c05725b73302": {
+    "asset": 1516125275000,
+    "meta": 1516125275000,
+    "relativePath": "particle_texture.plist"
+  },
+  "60d0f08b-9001-4846-bdbc-e2326328582d": {
+    "asset": 1527172071000,
+    "meta": 1529593682322,
+    "relativePath": "Scripts\\GeradorDeInimigos.js"
+  },
+  "73105894-fff8-48b3-bb71-f8924802c410": {
+    "asset": 1527172675000,
+    "meta": 1529593682489,
+    "relativePath": "Scripts\\LimitadorDeZumbis.js"
+  },
+  "db00ef83-28a7-4f8e-9ee9-6a20ef1db437": {
+    "asset": 1527172352000,
+    "meta": 1529593682372,
+    "relativePath": "Scripts\\Inimigo.js"
+  },
+  "c5a7568c-85e6-456d-8e73-dcbd784a17b9": {
+    "asset": 1516125275000,
+    "meta": 1529593680924,
+    "relativePath": "Prefabs\\Cenario\\Barril.prefab"
+  },
+  "20b069df-483e-4228-b8ad-10f8b3418a0f": {
+    "asset": 1516125275000,
+    "meta": 1529593681027,
+    "relativePath": "Prefabs\\Cenario\\Tanque.prefab"
+  },
+  "fcda6bfd-969b-4cec-8a0d-89bcae53ca7b": {
+    "asset": 1529593290011,
+    "meta": 1516125275000,
+    "relativePath": "Prefabs\\Cenario"
+  },
+  "bca5643a-52be-496a-8b7b-cafa11d6f51a": {
+    "asset": 1516125275000,
+    "meta": 1529593680935,
+    "relativePath": "Prefabs\\Cenario\\CaixasGrandesDireita.prefab"
+  },
+  "b784031f-787e-445d-9f84-6824d2678050": {
+    "asset": 1516125275000,
+    "meta": 1529593680965,
+    "relativePath": "Prefabs\\Cenario\\CaixasGrandesFrente.prefab"
+  },
+  "64d5fa70-c9a7-41cb-91e5-e1aa617d9689": {
+    "asset": 1516125275000,
+    "meta": 1529593680970,
+    "relativePath": "Prefabs\\Cenario\\CaixasGrandesTras.prefab"
+  },
+  "249cdb0f-4343-4518-b58f-98d231ec0cec": {
+    "asset": 1516125275000,
+    "meta": 1529593681007,
+    "relativePath": "Prefabs\\Cenario\\PosteDeLuzEsquerda.prefab"
+  },
+  "544bce88-8fc7-40a0-b743-b24f955399c8": {
+    "asset": 1516125275000,
+    "meta": 1529593680994,
+    "relativePath": "Prefabs\\Cenario\\PosteDeLuzDireita.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1527619626000,
+    "meta": 1529593671560,
+    "relativePath": "prefab\\toggleGroup.prefab"
+  },
+  "279f29ea-da36-44ed-bf0f-eec89a372b7e": {
+    "asset": 1527183931000,
+    "meta": 1529593680805,
+    "relativePath": "Intro.fire"
+  },
+  "9f664e31-e7a8-4723-b1d9-820ccd9b5f40": {
+    "asset": 1527176281000,
+    "meta": 1529593675049,
+    "relativePath": "Animacoes\\Logo.anim"
+  },
+  "fe0f1b42-3d7f-49ca-9743-ade637457736": {
+    "asset": 1527176220000,
+    "meta": 1529593682029,
+    "relativePath": "Scripts\\CarregarCena.js"
+  }
+}

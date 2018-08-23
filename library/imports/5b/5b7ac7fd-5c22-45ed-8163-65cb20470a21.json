@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Tiro",
+    "texture": "adaf59b9-5c96-4550-afa2-83cb5caecff1",
+    "atlas": "",
+    "rect": [
+      4,
+      3,
+      11,
+      11
+    ],
+    "offset": [
+      -2,
+      -0.5
+    ],
+    "originalSize": [
+      23,
+      16
+    ]
+  }
+}

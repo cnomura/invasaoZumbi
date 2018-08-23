@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_036",
+    "texture": "18dc6854-b96a-4dd6-b16e-c630d0655482",
+    "atlas": "8d2c9df6-774f-4585-bec4-2e3bb308e61a",
+    "rect": [
+      1673,
+      1521,
+      128,
+      214
+    ],
+    "offset": [
+      -10,
+      6
+    ],
+    "originalSize": [
+      576,
+      324
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "InvasaoZumbi-011.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_022": {
+      "__uuid__": "e6ab72c8-e416-4935-975c-1ae8b4d21b5a"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_023": {
+      "__uuid__": "75a718a0-fc29-4f27-bfb4-6c4c5fe98b74"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_024": {
+      "__uuid__": "d6ece720-8e8c-4534-9b4f-d1f3e034943c"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_025": {
+      "__uuid__": "94b2e8ae-a803-432f-ad68-163293c3a4d2"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_026": {
+      "__uuid__": "7059a80d-3fd4-4738-926d-5361277d3dc3"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_027": {
+      "__uuid__": "efc5d082-54a6-43c5-af4b-c8e83ec4298a"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_028": {
+      "__uuid__": "528cb19a-8273-43d1-9197-cfa0ad4f216a"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_000": {
+      "__uuid__": "5b6f3207-382d-4f4e-9ebf-6610d52910d0"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_001": {
+      "__uuid__": "ba078915-3107-4923-9e19-2596ce089b57"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_002": {
+      "__uuid__": "3ba5b83f-c43c-4129-9ba4-3b45de957d69"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_003": {
+      "__uuid__": "fb552c3b-8cb2-4c4e-8f19-d1b8c0c93f53"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_004": {
+      "__uuid__": "4822b271-2e2f-460f-bc38-e94bc265dbc2"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_005": {
+      "__uuid__": "e314cb44-7323-4404-b5da-0dd118b64835"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_006": {
+      "__uuid__": "06aa5257-2649-439f-8c9a-037e00132a3f"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_007": {
+      "__uuid__": "234a00d8-bd8c-47b7-9376-6c5cfaaf22ad"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_008": {
+      "__uuid__": "214bf965-d7e7-4d60-aa66-e6e56a997a59"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_009": {
+      "__uuid__": "420c455e-4b74-4cdb-b373-37f7008a4caa"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_010": {
+      "__uuid__": "8e3f4457-f812-4693-b49d-e28fcf207b3b"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_011": {
+      "__uuid__": "5057e03e-5973-4b70-a7d0-61d6a7eb90dc"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_012": {
+      "__uuid__": "4adc6bd9-bb57-45ef-83e3-c8e2e3c7b7a8"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_013": {
+      "__uuid__": "273c1f01-68e5-4020-8e8b-41c661069fec"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_014": {
+      "__uuid__": "d1c40fe1-fd13-459a-a366-d51a67aac206"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_015": {
+      "__uuid__": "79fe8c35-b2c6-4807-9a9d-8259460c9918"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_016": {
+      "__uuid__": "577d9aa9-380d-4131-807b-4af196ac155a"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_017": {
+      "__uuid__": "9be24811-02d1-4177-98cc-d532b3df0e43"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_018": {
+      "__uuid__": "42b9a4a1-deff-41cd-a382-9ff03533718e"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_019": {
+      "__uuid__": "8ee0f538-246b-4bf3-8430-af8ce0b5ba04"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_020": {
+      "__uuid__": "2340f31a-2bb9-498b-937c-198c62e79088"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_021": {
+      "__uuid__": "0cf01a8e-b4aa-4baf-9671-d2702eb815e2"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_022": {
+      "__uuid__": "2d4ee75f-ef5b-4e9f-8687-0c8627f0d93a"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_023": {
+      "__uuid__": "4d06a088-375a-4fe6-a376-09d565d9f199"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_024": {
+      "__uuid__": "76c87f35-c980-416d-bfb3-8a3d326b39ca"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_025": {
+      "__uuid__": "64099eca-1156-454e-ad4f-39acfc5e7e74"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_026": {
+      "__uuid__": "cbae478a-7265-42b5-9ea3-c2dfbb3a53fc"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_027": {
+      "__uuid__": "f2783119-5dbd-4def-bdd5-8f08916786f4"
+    },
+    "Ataque-EsquerdaCima-Zumbi_AtaqueEsquerdaCima_028": {
+      "__uuid__": "9e38b411-62f8-4335-929f-5b4ac1923386"
+    },
+    "Construcoes_GaleriaDeLojasFrente": {
+      "__uuid__": "0e9b7375-b7e5-4f4e-910b-5e3d18cb25b0"
+    },
+    "Dinner-Dinner_Direita": {
+      "__uuid__": "023ded27-ae26-4ff8-9ab4-b119d7463e3e"
+    }
+  }
+}

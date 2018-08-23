@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_027",
+    "texture": "d8ba9841-ca93-479f-8e38-718e0a061d21",
+    "atlas": "7f917449-a308-41e8-b674-42f190747140",
+    "rect": [
+      663,
+      1,
+      122,
+      211
+    ],
+    "offset": [
+      -12,
+      -47
+    ],
+    "originalSize": [
+      576,
+      405
+    ]
+  }
+}

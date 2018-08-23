@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "32bfcf0c-b71a-4e68-b56e-fb7ba088492e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "InvasaoZumbi-03": {
+      "ver": "1.0.3",
+      "uuid": "43c10e0a-8e2f-4428-9965-df632970bd27",
+      "rawTextureUuid": "32bfcf0c-b71a-4e68-b56e-fb7ba088492e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 2038,
+      "height": 2035,
+      "rawWidth": 2042,
+      "rawHeight": 2039,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

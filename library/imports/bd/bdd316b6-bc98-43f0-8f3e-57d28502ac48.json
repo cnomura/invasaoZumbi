@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Itens_KitPrimeirosSocorrosCima",
+    "texture": "a2e2be94-d02a-4c77-be18-88b30e0053b9",
+    "atlas": "10a3d58d-4ff8-468d-87c6-3f63cb433303",
+    "rect": [
+      1099,
+      720,
+      56,
+      42
+    ],
+    "offset": [
+      -3,
+      5
+    ],
+    "originalSize": [
+      288,
+      162
+    ]
+  }
+}

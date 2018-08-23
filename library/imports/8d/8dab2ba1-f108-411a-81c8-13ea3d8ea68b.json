@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Caveira",
+    "texture": "876e1ace-af95-4ca4-ab30-add7008e82ed",
+    "atlas": "",
+    "rect": [
+      7,
+      7,
+      114,
+      108
+    ],
+    "offset": [
+      0,
+      3
+    ],
+    "originalSize": [
+      128,
+      128
+    ]
+  }
+}

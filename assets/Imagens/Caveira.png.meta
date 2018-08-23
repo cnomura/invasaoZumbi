@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "876e1ace-af95-4ca4-ab30-add7008e82ed",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Caveira": {
+      "ver": "1.0.3",
+      "uuid": "8dab2ba1-f108-411a-81c8-13ea3d8ea68b",
+      "rawTextureUuid": "876e1ace-af95-4ca4-ab30-add7008e82ed",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 3,
+      "trimX": 7,
+      "trimY": 7,
+      "width": 114,
+      "height": 108,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

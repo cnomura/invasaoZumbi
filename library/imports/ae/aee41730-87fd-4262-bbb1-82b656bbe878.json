@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Parado-Esquerda-Chefe_ParadoEsquerda_031",
+    "texture": "6bc7a384-96fa-471d-8dd6-a6cf8ec9297a",
+    "atlas": "efe8cbde-da93-4d49-8e98-3baeb17cf4c1",
+    "rect": [
+      1535,
+      1421,
+      116,
+      204
+    ],
+    "offset": [
+      -41,
+      -3
+    ],
+    "originalSize": [
+      576,
+      324
+    ]
+  }
+}

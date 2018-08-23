@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "InvasaoZumbi-013.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Loja-Loja_Esquerda": {
+      "__uuid__": "6940d1cf-e770-4809-9eae-a4958469cc48"
+    },
+    "Loja-Loja_Tras": {
+      "__uuid__": "6dd4f003-9c0e-4814-ac70-529196148f91"
+    },
+    "Loja-Loja_frente": {
+      "__uuid__": "4362bf38-137f-4fb4-a791-df740e3c45eb"
+    },
+    "Mecanico-Mecanico_Direita": {
+      "__uuid__": "c7c98165-5d6b-4190-a201-59fcd1b0c4ef"
+    }
+  }
+}
